@@ -13,20 +13,17 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-```python
-class ShankarReddy:
-    def __init__(self):
-        self.role = "Backend & API Developer"
-        self.degree = "B.Tech CS (AI & ML) @ SVCET"
-        self.passions = ["LLMs", "Agentic AI", "FastAPI", "Clean Architecture"]
-        self.currently_learning = ["Cloud Deployment (AWS)", "API Scalability"]
-        self.fun_fact = "Best debugging happens away from the keyboard 🧠"
+I'm **Shankar Reddy**, a final-year **B.Tech Computer Science (AI & ML)** student at **SVCET**, passionate about building backend systems that are fast, reliable, and genuinely useful.
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great!")
-```
+- 🔌 I design and ship **RESTful APIs with FastAPI**, focusing on clean architecture and real-world performance
+- 🤖 I'm deep into the world of **LLMs and Agentic AI**, exploring how intelligent workflows can solve practical problems
+- 📊 I enjoy turning raw data into insight through **data analytics and visualization**
+- 🌱 Every project is a chance to learn — I treat bugs as puzzles, not obstacles
+- 🎯 Currently working towards mastering **cloud deployment on AWS** and scaling backend systems for production
+
+> *"I don't just write code — I build systems that think, scale, and solve."*
 
 <br/>
 
@@ -39,7 +36,6 @@ class ShankarReddy:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 **🎨 Frontend**
 
@@ -60,8 +56,6 @@ class ShankarReddy:
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -110,9 +104,9 @@ class ShankarReddy:
 <div align="center">
 
 <a href="https://github.com/Shankar2027"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://shankar2027.github.io/portfolio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mopurshankareddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://shankar2027.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
