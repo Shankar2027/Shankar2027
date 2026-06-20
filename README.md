@@ -23,7 +23,6 @@ I'm **Shankar Reddy**, a final-year **B.Tech Computer Science (AI & ML)** studen
 - 🌱 Every project is a chance to learn — I treat bugs as puzzles, not obstacles
 - 🎯 Currently working towards mastering **cloud deployment on AWS** and scaling backend systems for production
 
-> *"I don't just write code — I build systems that think, scale, and solve."*
 
 <br/>
 
